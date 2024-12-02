@@ -1,0 +1,21 @@
+[submodule "pa1-t1mtw0"]
+	path = pa1-t1mtw0
+	url = git@github.com:itp435-20243/pa1-t1mtw0.git
+[submodule "pa2-t1mtw0"]
+	path = pa2-t1mtw0
+	url = git@github.com:itp435-20243/pa2-t1mtw0.git
+[submodule "pa3-t1mtw0"]
+	path = pa3-t1mtw0
+	url = git@github.com:itp435-20243/pa3-t1mtw0.git
+[submodule "pa4-t1mtw0"]
+	path = pa4-t1mtw0
+	url = git@github.com:itp435-20243/pa4-t1mtw0.git
+[submodule "pa5-t1mtw0"]
+	path = pa5-t1mtw0
+	url = git@github.com:itp435-20243/pa5-t1mtw0.git
+[submodule "pa6-t1mtw0"]
+	path = pa6-t1mtw0
+	url = git@github.com:itp435-20243/pa6-t1mtw0.git
+[submodule "pa7-t1mtw0"]
+	path = pa7-t1mtw0
+	url = git@github.com:itp435-20243/pa7-t1mtw0.git
